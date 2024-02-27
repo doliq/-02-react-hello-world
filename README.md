@@ -113,6 +113,7 @@ Buatlah komponen MyTextNimName() berdasarkan kode dari soal nomor 3 sebelumnya. 
 ### Jawaban Soal 4
 
 ![Screenshot](assets-report/06.png)
+
 Tidak terjadi perubahan dikarenakan fungsi dipanggil pada halaman home sudah tepat
 
 ## Menulis markup dengan JSX
